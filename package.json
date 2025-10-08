@@ -1,0 +1,27 @@
+{
+  "name": "spanishpointtechnologies",
+  "version": "1.0.0",
+  "description": "Cypress UI Automation Framework",
+  "homepage": "https://github.com/asurve2804/SpanishPointTechnologies#readme",
+  "bugs": {
+    "url": "https://github.com/asurve2804/SpanishPointTechnologies/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asurve2804/SpanishPointTechnologies.git"
+  },
+  "license": "ISC",
+  "author": "Atul",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.0",
+    "@cypress/browserify-preprocessor": "latest",
+    "@cypress/webpack-preprocessor": "latest",
+    "babel-loader": "latest",
+    "cypress": "latest"
+  }
+}
